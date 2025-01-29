@@ -1,4 +1,4 @@
-FROM vitalets/tizen-webos-sdk
+FROM my-webos-sdk
 
 COPY entrypoint.sh profile.xml ./
 
